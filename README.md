@@ -6,4 +6,4 @@ Hi, I’m @lightQAnne / Anna Ilchenko! 👋
    - 🔗 Telegram: [@Ann_Ilchenko](https://t.me/Ann_Ilchenko)
    - ✉️ Email: anne.ilchenko@gmail.com
 
-- 📃 Read more in the CV: [cv.anne.qa]([https://github.com/your-username/your-repository](https://drive.google.com/file/d/1Oh6-bNMUq4x7PwN36X691mk49Y-JX5do/view?usp=drive_link))
+- 📃 Read more in the CV: [cv.anne.qa](https://drive.google.com/file/d/1Oh6-bNMUq4x7PwN36X691mk49Y-JX5do/view?usp=drive_link)
