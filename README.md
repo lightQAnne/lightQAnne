@@ -1,9 +1,14 @@
-Hi, I’m @lightQAnne / Anna Ilchenko! 👋 
-- 🙋🏻‍♀️ 6+ years in QA area 
-- 🔭 Primarily worked as automated QA with web applications in C#, Selenium. Experienced in manual QA and log analysis in the automotive industry.
-- 🌱 I’m currently learning: SQL, preparing for ISTQB certification.
-- 📫 How to reach me:
-   - 🔗 Telegram: [@Ann_Ilchenko](https://t.me/Ann_Ilchenko)
-   - ✉️ Email: anne.ilchenko@gmail.com
+Hi, I’m @lightQAnne / Anna Ilchenko! 👋
 
-- 📃 Read more in the CV: [cv.anne.qa](https://drive.google.com/file/d/1Oh6-bNMUq4x7PwN36X691mk49Y-JX5do/view?usp=drive_link)
+🙋🏻‍♀️ 6+ years in QA, with a passion for uncovering non-obvious bugs and challenging testing scenarios.
+🔭 Primarily worked as an automated QA for web applications using C# and Selenium. Also experienced in manual QA and log analysis in the automotive industry (Mercedes, Volkswagen).
+🌱 Currently diving into backend development (Java, C#, SQL) and exploring UI/UX design to broaden my skills and creative horizon.
+
+📫 How to reach me:
+   🔗 Telegram: [@Ann_Ilchenko](https://t.me/Ann_Ilchenko)
+   ✉️ Email: anne.ilchenko@gmail.com
+   🔗 LinkedIn: [ann-ilchenko](https://www.linkedin.com/in/ann-ilchenko/)
+
+📃 Read more in my CV: 
+   ENG: [EN_cv_anne](https://drive.google.com/file/d/1M8xze5rR-EuS2kGBaNbjZGa_fXdHfHe8/view?usp=sharing)
+   PL: [PL_cv_anne](https://drive.google.com/file/d/16MLEGNsDZGtj8rrSjxkrVtQ9lYUxSNEx/view?usp=sharing)
