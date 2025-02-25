@@ -7,7 +7,3 @@ Hi there! I'm Anna Ilchenko! 👋
 📫 How to reach me:  
    ✉️ Email: anne.ilchenko@gmail.com  
    🔗 LinkedIn: [ann-ilchenko](https://www.linkedin.com/in/ann-ilchenko/)  
-
-📃 Read more in my CV:  
-   ENG: [EN_cv_anne](https://drive.google.com/file/d/1M8xze5rR-EuS2kGBaNbjZGa_fXdHfHe8/view?usp=sharing)  
-   PL: [PL_cv_anne](https://drive.google.com/file/d/16MLEGNsDZGtj8rrSjxkrVtQ9lYUxSNEx/view?usp=sharing)  
