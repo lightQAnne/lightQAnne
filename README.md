@@ -1,4 +1,3 @@
-   Hi, I'm Anna Ilchenko!   
 Auto QA Engineer transitioning into full-stack development. Passionate about automation, web technologies, and building intuitive applications.   
 
    ✉️ Email: anne.ilchenko@gmail.com     
