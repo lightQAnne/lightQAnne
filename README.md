@@ -1,10 +1,8 @@
 Hi there! I'm Anna Ilchenko! 👋  
 
-🙋🏻‍♀️ 6+ years in QA, with a passion for uncovering non-obvious bugs and challenging testing scenarios.  
-🔭 Primarily worked as an automated QA for web applications using C# and Selenium. Also experienced in manual QA and log analysis in the automotive industry (Mercedes, Volkswagen).  
-🖥️ Building a salary-tracking web app using JavaScript, Firebase, HTML & CSS. Exploring backend development and DevOps. 
+🙋🏻‍♀️ QA Engineer with 6+ years of experience, specializing in automation (C#, Selenium) and web application testing. Passionate about uncovering non-obvious bugs and improving test reliability.
+🔍 Experienced in manual testing, log analysis, and debugging. Skilled in API testing and working with CI/CD pipelines.
+🚀 Transitioning into full-stack development: currently building a salary-tracking web app with JavaScript, Firebase, HTML & CSS, with plans to expand backend functionality.
 
-📫 How to reach me:  
    ✉️ Email: anne.ilchenko@gmail.com  
-   🔗 LinkedIn: [ann-ilchenko](https://www.linkedin.com/in/ann-ilchenko/)  
-   🔗 [Ann_Ilchenko_CV_Eng](https://drive.google.com/file/d/1V0tgwrG_olQh5_yBR1ZaSbBm9VqLcJQl/view?usp=sharing)
+   📃 Read more: [eng.cv.ann](https://drive.google.com/file/d/1V0tgwrG_olQh5_yBR1ZaSbBm9VqLcJQl/view?usp=sharing)
